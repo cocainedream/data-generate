@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 import { v4 as uuidv4 } from 'uuid';
 import { testCases } from './consts/test-cases';
-import { jsonObject } from './consts/flk-json';
+import { jsonObject } from './consts/example-json';
 
 export function generateTestCases(jsonObject: any, positiveCases: any, fieldsToReplace: string[]) {
     const testCasesDir = path.join(__dirname, 'test-cases');
