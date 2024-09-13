@@ -1,0 +1,104 @@
+[
+  {
+    "test_case": "1",
+    "key": "paymentFormDetails.documentNumber",
+    "value": "1",
+    "requestId": "201f9b20-dd59-40a8-9666-547d27ff4d3d"
+  },
+  {
+    "test_case": "2",
+    "key": "paymentFormDetails.documentNumber",
+    "value": "10",
+    "requestId": "1ebd7b33-5cea-42f0-bbf7-acafa33fc2ec"
+  },
+  {
+    "test_case": "3",
+    "key": "paymentFormDetails.documentNumber",
+    "value": "12345",
+    "requestId": "aedcdf0a-f4f6-4129-924f-2dbbe2e71be7"
+  },
+  {
+    "test_case": "4",
+    "key": "paymentFormDetails.documentNumber",
+    "value": "123456",
+    "requestId": "2cf16cb9-b8f6-49c7-a45f-a990b1c08dd1"
+  },
+  {
+    "test_case": "5",
+    "key": "paymentFormDetails.documentNumber",
+    "value": "",
+    "requestId": "aa285375-f159-4cdb-9a87-25ee2e7734da"
+  },
+  {
+    "test_case": "6",
+    "key": "paymentFormDetails.documentNumber",
+    "value": "000000",
+    "requestId": "9a843c4c-0b88-4039-82a3-7ec373bc2aba"
+  },
+  {
+    "test_case": "7",
+    "key": "paymentFormDetails.documentNumber",
+    "value": "1234567",
+    "requestId": "3ac8bf5c-e955-45da-87b9-abba127a9945"
+  },
+  {
+    "test_case": "8",
+    "key": "paymentFormDetails.documentNumber",
+    "value": "123a45",
+    "requestId": "596332ac-2579-4275-ac60-91f5c312d2a4"
+  },
+  {
+    "test_case": "9",
+    "key": "paymentFormDetails.documentNumber",
+    "value": "12 34",
+    "requestId": "a7ac3da4-070f-4b6b-89b2-acce6d73d7cd"
+  },
+  {
+    "test_case": "10",
+    "key": "paymentFormDetails.documentNumber",
+    "value": "!@#$%",
+    "requestId": "ab7a975e-5727-4e95-8a98-54b83dea3255"
+  },
+  {
+    "test_case": "11",
+    "key": "paymentFormDetails.documentNumber",
+    "value": "    ",
+    "requestId": "9df5c56f-158a-4e6f-a70c-36608eed7611"
+  },
+  {
+    "test_case": "12",
+    "key": "paymentFormDetails.documentNumber",
+    "value": null,
+    "requestId": "4fa2791f-0aa0-4a85-b17d-5e0f1bd03e29"
+  },
+  {
+    "test_case": "13",
+    "key": "paymentFormDetails.documentNumber",
+    "value": "2024-08-24",
+    "requestId": "e013ebf2-6f7e-4cc9-9945-a35b4535fa42"
+  },
+  {
+    "test_case": "14",
+    "key": "paymentFormDetails.documentNumber",
+    "value": "12,34",
+    "requestId": "422cc24a-f398-43c5-99e3-33095493f70b"
+  },
+  {
+    "test_case": "15",
+    "key": "paymentFormDetails.documentNumber",
+    "value": true,
+    "requestId": "1c72c776-09d8-4748-a06f-015985cf0b6a"
+  },
+  {
+    "test_case": "16",
+    "key": "paymentFormDetails.documentNumber",
+    "value": 1,
+    "requestId": "a1d58efb-11e3-4c1b-956e-fbbd944905b8"
+  },
+  {
+    "test_case": "17",
+    "key": "paymentFormDetails.documentNumber",
+    "value": 123456,
+    "requestId": "acc1541c-abf6-4518-bcf6-95b57029b7b2"
+  }
+]

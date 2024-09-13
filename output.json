@@ -1,0 +1,38 @@
+[
+    {
+        "test_case": "1",
+        "key": "paymentFormDetails.documentNumber",
+        "value": "1",
+        "requestId": "ab999ce9-4b26-45e5-a79b-d0b9c198a442",
+        "status": "VALIDATED",
+        "errormessage": null,
+        "expectedResult": "OK"
+    },
+    {
+        "test_case": "16",
+        "key": "paymentFormDetails.documentNumber",
+        "value": 1,
+        "requestId": "0d84129f-8c4c-4f74-8429-b9bd70512c99",
+        "status": "VALIDATED",
+        "errormessage": null,
+        "expectedResult": "FALLED"
+    },
+    {
+        "test_case": "17",
+        "key": "paymentFormDetails.documentNumber",
+        "value": 123456,
+        "requestId": "bf86e268-b51c-4382-be63-e3ce4a63fe6a",
+        "status": "VALIDATED",
+        "errormessage": null,
+        "expectedResult": "FALLED"
+    },
+    {
+        "test_case": "18",
+        "key": "paymentFormDetails.documentDate",
+        "value": "2024-08-24",
+        "requestId": "45ebeebd-dae2-4fb2-aedf-60f5a2c5ee82",
+        "status": "REJECTED",
+        "errormessage": "Дата выписки расчетного документа указана неверно.",
+        "expectedResult": "ОК"
+    }
+]
